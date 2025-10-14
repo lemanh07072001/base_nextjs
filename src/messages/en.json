@@ -1,0 +1,36 @@
+{
+  "Home": {
+    "welcome": "Welcome to MKT Proxy!",
+    "description": "The best proxy marketplace in Vietnam."
+  },
+  "Auth": {
+    "Login": {
+      "orContinueWith": "Or continue with",
+      "email": "Email",
+      "emailPlaceholder": "m@example.com",
+      "password": "Password",
+      "forgotPassword": "Forgot your password?",
+      "submit": "Login",
+      "noAccount": "Don't have an account?",
+      "signup": "Sign up",
+      "errors": {
+        "email": {
+          "invalid": "Please enter a valid email",
+          "required": "Email is required"
+        },
+        "password": {
+          "min": "Password must be at least 6 characters",
+          "required": "Password is required"
+        }
+      }
+    },
+    "LoginPage": {
+      "title": "Welcome back",
+      "description": "Login with your Apple or Google account",
+      "tosNoticePrefix": "By clicking continue, you agree to our",
+      "termsOfService": "Terms of Service",
+      "and": "and",
+      "privacyPolicy": "Privacy Policy"
+    }
+  }
+}

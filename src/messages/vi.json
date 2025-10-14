@@ -1,0 +1,36 @@
+{
+  "Home": {
+    "welcome": "Chào mừng đến với MKT Proxy!",
+    "description": "Nền tảng proxy tốt nhất Việt Nam."
+  },
+  "Auth": {
+    "Login": {
+      "orContinueWith": "Hoặc tiếp tục với",
+      "email": "Email",
+      "emailPlaceholder": "m@vidu.com",
+      "password": "Mật khẩu",
+      "forgotPassword": "Quên mật khẩu?",
+      "submit": "Đăng nhập",
+      "noAccount": "Chưa có tài khoản?",
+      "signup": "Đăng ký",
+      "errors": {
+        "email": {
+          "invalid": "Vui lòng nhập email hợp lệ",
+          "required": "Email là bắt buộc"
+        },
+        "password": {
+          "min": "Mật khẩu tối thiểu 8 ký tự",
+          "required": "Mật khẩu là bắt buộc"
+        }
+      }
+    },
+    "LoginPage": {
+      "title": "Chào mừng trở lại",
+      "description": "Đăng nhập bằng tài khoản Apple hoặc Google",
+      "tosNoticePrefix": "Bằng cách tiếp tục, bạn đồng ý với",
+      "termsOfService": "Điều khoản dịch vụ",
+      "and": "và",
+      "privacyPolicy": "Chính sách bảo mật"
+    }
+  }
+}
